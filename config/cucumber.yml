@@ -1,0 +1,5 @@
+# ../config/cucumber.yml
+version: 1
+default: --publish-quiet
+profile_firefox: BROWSER='firefox' --publish-quiet
+profile_chrome: BROWSER=chrome --publish-quiet
