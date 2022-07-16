@@ -2,8 +2,6 @@
 - run-profile-firefox.sh (recommended)
 ***fail? run script again***
 
--- fail? rerun script
-
 #  Bash Version
 - 5.0.17(1)-release
 
